@@ -1,5 +1,4 @@
-# Agentic Adoption Systems
-
+# Building Agentic AI Systems for Enterprise Adoption
 This repository contains:
 - Week 1 Foundations
 - Week 2 Agents
